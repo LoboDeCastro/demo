@@ -1,5 +1,9 @@
 blablabla
 
+<<<<<<< HEAD
 first change
 
 second change
+=======
+first change / remote change
+>>>>>>> 8dcdd0f5cf942e5db81070716ea61afc9272d793
